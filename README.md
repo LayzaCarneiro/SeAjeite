@@ -1,4 +1,4 @@
-# SeAjeite - Swift Student Challenge Winner
+# SeAjeite - Swift Student Challenge Winner 🍎🏆
 
 ## Screenshots
 ### Personalized Routine & Positions
