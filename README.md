@@ -1,6 +1,29 @@
 # SeAjeite - Swift Student Challenge Winner
 
 ## Screenshots
+### Personalized Routine & Positions
+<p>
+  <img src="https://github.com/user-attachments/assets/b652f878-4e26-4c91-8346-c58c851765ff" width="250"/>
+  <img src="https://github.com/user-attachments/assets/7a2a59f7-ea3e-47ef-a3b7-48d5b493d93a" width="250"/>
+</p>
+
+### Guided Stretching Experience
+<p>
+  <img src="https://github.com/user-attachments/assets/6e6d2ed0-6384-4321-9824-e88997c261ac" width="250"/>
+  <img src="https://github.com/user-attachments/assets/57065a83-1257-4c59-8164-d6a562941879" width="250"/>
+</p>
+
+### Smart Timer & Breathing Rhythm
+<p>
+  <img src="https://github.com/user-attachments/assets/665f9e68-b59d-4557-a3be-c3d8dc4db9d3" width="250"/>
+  <img src="https://github.com/user-attachments/assets/d80b3133-c8c4-4401-bcbc-4123020d057d" width="250"/>
+</p>
+
+### Weekly Progress Tracking
+<p>
+  <img src="https://github.com/user-attachments/assets/8c1f19d6-b3c8-4347-bff3-d760b0a10c8b" width="250"/>
+</p>
+
 
 ## Form Submitted
 
