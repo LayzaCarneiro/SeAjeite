@@ -70,6 +70,14 @@ In addition to the core Swift language, I utilized the following native Apple te
 
 Have you shared your app development knowledge with others or used your technology skills to support your community? Describe specific activities and impact. Note: This is about you, not your app.
 
+My journey in technology is driven by the belief that knowledge only grows when shared. I am deeply committed to my local ecosystem through three main pillars:
+
+1. **Community Leadership:** I am an active member and organizer for **CocoaHeads Fortaleza**, one of the largest iOS developer communities in Brazil. I help organize dynamics, workshops, and technical talks, creating a welcoming space where both seasoned developers and beginners can exchange experiences about the Apple ecosystem.
+2. **Social Impact:** I volunteer my technical skills for **"4 Patas,"** a local NGO dedicated to animal welfare. I am currently developing a mobile application to streamline the pet adoption process, using technology to connect abandoned animals with loving homes and helping the NGO manage their impact more efficiently.
+3. **Academic Mentorship & Competitive Programming:** As a member of my university’s competitive programming study group, I mentor newcomers in algorithms and data structures. My dedication to coding excellence led me to become a **two-time finalist in the Latin American Women's Programming Contest (APPLE)**. This experience allows me to encourage other women in STEM, showing them that they belong in high-level technical spaces.
+
+Through these activities, I don’t just write code; I build bridges. Whether it's helping a peer understand a complex sorting algorithm or building a platform for animal adoption, my goal is to use my Swift skills to empower my community and inspire the next generation of female developers in Ceará, Brazil.
+
 ---
 
 ## **Apps on the App Store (optional)**
@@ -101,11 +109,3 @@ Is there anything else you‘d like us to know?
 The most significant lesson was learning how to use AI as a conscious and honest collaborator. I realized that using AI effectively requires a high level of care and responsibility; it is a skill that takes time to understand. I had to learn how to move beyond simply generating code to critically analyzing every suggestion to ensure I truly understood the 'how' and 'why' behind it.
 
 Working alone, I found AI to be an incredible brainstorming partner, but I learned that one must be careful not to let it replace personal logic. By avoiding the 'copy-paste' trap and instead using AI to explain complex concepts like SwiftUI state management or dynamic animations, I was able to optimize my time while actually deepening my technical knowledge. This journey taught me that AI is a powerful tool for an independent developer, provided it is used as a bridge to learning rather than a shortcut that bypasses it.
-
-My journey in technology is driven by the belief that knowledge only grows when shared. I am deeply committed to my local ecosystem through three main pillars:
-
-1. **Community Leadership:** I am an active member and organizer for **CocoaHeads Fortaleza**, one of the largest iOS developer communities in Brazil. I help organize dynamics, workshops, and technical talks, creating a welcoming space where both seasoned developers and beginners can exchange experiences about the Apple ecosystem.
-2. **Social Impact:** I volunteer my technical skills for **"4 Patas,"** a local NGO dedicated to animal welfare. I am currently developing a mobile application to streamline the pet adoption process, using technology to connect abandoned animals with loving homes and helping the NGO manage their impact more efficiently.
-3. **Academic Mentorship & Competitive Programming:** As a member of my university’s competitive programming study group, I mentor newcomers in algorithms and data structures. My dedication to coding excellence led me to become a **two-time finalist in the Latin American Women's Programming Contest (APPLE)**. This experience allows me to encourage other women in STEM, showing them that they belong in high-level technical spaces.
-
-**Impact:** Through these activities, I don’t just write code; I build bridges. Whether it's helping a peer understand a complex sorting algorithm or building a platform for animal adoption, my goal is to use my Swift skills to empower my community and inspire the next generation of female developers in Ceará, Brazil.
