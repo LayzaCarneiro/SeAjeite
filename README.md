@@ -109,3 +109,20 @@ Is there anything else you‘d like us to know?
 The most significant lesson was learning how to use AI as a conscious and honest collaborator. I realized that using AI effectively requires a high level of care and responsibility; it is a skill that takes time to understand. I had to learn how to move beyond simply generating code to critically analyzing every suggestion to ensure I truly understood the 'how' and 'why' behind it.
 
 Working alone, I found AI to be an incredible brainstorming partner, but I learned that one must be careful not to let it replace personal logic. By avoiding the 'copy-paste' trap and instead using AI to explain complex concepts like SwiftUI state management or dynamic animations, I was able to optimize my time while actually deepening my technical knowledge. This journey taught me that AI is a powerful tool for an independent developer, provided it is used as a bridge to learning rather than a shortcut that bypasses it.
+
+
+---
+
+## To-Do List
+
+* [ ] Implement full **VoiceOver support** across all screens
+* [ ] Add **Dynamic Type scaling** for better accessibility
+* [ ] Expand exercise library with **new stretching routines**
+* [ ] Add **illustrations/visual guides for each exercise**
+* [ ] Integrate **Vision framework** to identify and validate user movements
+* [ ] Improve **weekly analytics insights** (more detailed charts)
+* [ ] Add **custom reminders & notifications**
+* [ ] Introduce **guided audio instructions**
+* [ ] Optimize **haptic feedback patterns**
+* [ ] Add **localization for Portuguese (PT-BR)**
+
